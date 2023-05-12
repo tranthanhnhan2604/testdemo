@@ -11,3 +11,6 @@ This is a new line in readme file!
 this line was written by me
 
 This is the second time add new line in readme file
+Today is the second day i go to work
+I'm really happy because I have a new friend
+
